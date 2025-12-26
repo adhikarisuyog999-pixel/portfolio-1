@@ -10,13 +10,13 @@ const Footer = ({
     <footer className={`${cardBg} border-t ${borderColor} py-12 px-4`}>
       <div className="max-w-6xl mx-auto">
         <div className="flex md:grid-cols-3 gap-7 mb-8">
-          <div className="min-w-0 place-items-center hover:scale-95">
+          <div className="min-w-0 place-items-center >
             <h4 className="text-xl font-bold mb-4 ">Suyog Adhikari</h4>
             <p className="text-l font-bold-semibold">
               Building digital experiences that inspire and delight.
             </p>
           </div>
-          <div className="hover:scale-105">
+          <div>
             <h4 className="text-xl font-bold mb-4">Quick Links</h4>
             <div className="space-y-2">
               {["Home", "About", "Blog", "Contact"].map((link) => (
@@ -30,7 +30,7 @@ const Footer = ({
               ))}
             </div>
           </div>
-          <div className="hover:scale-105">
+          <div>
             <h4 className="text-xl font-bold mb-4">{*Push Notification*} Subscribe</h4>
             <p className={`${textSecondary} mb-4`}>
               Stay updated with my latest posts
@@ -63,4 +63,5 @@ const Footer = ({
   );
 };
 export default Footer;
+
 
