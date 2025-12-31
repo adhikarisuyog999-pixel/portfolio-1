@@ -32,7 +32,7 @@ const HomeSection = ({
           }`}
         >
           <div className="text-6xl">
-            <img src="https://instagram.fbwa1-1.fna.fbcdn.net/v/t51.2885-19/https://instagram.fbwa1-1.fna.fbcdn.net/v/t51.2885-19/558964716_17963150114983741_6686008014759526145_n.jpg?stp=dst-jpg_s150x150_tt6&efg=https://instagram.fbwa1-1.fna.fbcdn.net/v/t51.2885-19/558964716_17963150114983741_6686008014759526145_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.fbwa1-1.fna.fbcdn.net&_nc_cat=101&_nc_oc=Q6cZ2QH8l6RFXi9GsNT8yXtABAoBbTlQUVTy45qCVuIJwPj8amCV3yrkKo9thZ9UIiWeMPQ&_nc_ohc=WnIhwzsbZlUQ7kNvwGKWsKB&_nc_gid=nSVwS59zKF_LWZ-Vo96PSg&edm=AP4sbd4BAAAA&ccb=7-5&oh=00_AfmGjBkc59tb_-105QVWBV4aEN3T-YN1pRa9c5IO9zAX9g&oe=694DF235&_nc_sid=7a9f4b&_nc_ht=instagram.fbwa1-1.fna.fbcdn.net&_nc_cat=101&_nc_oc=Q6cZ2QH8l6RFXi9GsNT8yXtABAoBbTlQUVTy45qCVuIJwPj8amCV3yrkKo9thZ9UIiWeMPQ&_nc_ohc=WnIhwzsbZlUQ7kNvwGKWsKB&_nc_gid=nSVwS59zKF_LWZ-Vo96PSg&edm=AP4sbd4BAAAA&ccb=7-5&oh=00_AfmGjBkc59tb_-105QVWBV4aEN3T-YN1pRa9c5IO9zAX9g&oe=694DF235&_nc_sid=7a9f4b.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.fbwa1-1.fna.fbcdn.net&_nc_cat=101&_nc_oc=Q6cZ2QE2LzXfDYC0xLOLqRD_z-yYetX4umv4JcFlopHGhohMopRiwqGj9LfBY_gtHxC7kX8&_nc_ohc=WnIhwzsbZlUQ7kNvwGKWsKB&_nc_gid=6ZunnSRxAjnTe7VyniAcBQ&edm=ALGbJPMBAAAA&ccb=7-5&oh=00_AfnNXFIpdJIWzocWTrcPM6d3PalhEiHUm7BgEF-6n6UiXA&oe=694DF235&_nc_sid=7d3ac5" />
+            <img src="" />
           </div>
         </div>
 
@@ -73,3 +73,4 @@ const HomeSection = ({
 };
 
 export default HomeSection;
+
