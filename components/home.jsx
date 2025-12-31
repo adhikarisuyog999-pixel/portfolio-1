@@ -32,7 +32,7 @@ const HomeSection = ({
           }`}
         >
           <div className="text-6xl">
-            <img src="" />
+            <img src="suyog.jpg" />
           </div>
         </div>
 
@@ -73,4 +73,5 @@ const HomeSection = ({
 };
 
 export default HomeSection;
+
 
